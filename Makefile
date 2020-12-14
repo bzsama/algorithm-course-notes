@@ -8,6 +8,7 @@ TEX=\
 	$(SRC)/Ln9-NearestPoints.tex\
 	$(SRC)/Ln11-LargeIntegerMultiplication.tex\
 	$(SRC)/Image-segmentation.tex\
+	$(SRC)/P-NP.tex\
 
 all: book.pdf
 .PHONY: all clean dev clean-all
